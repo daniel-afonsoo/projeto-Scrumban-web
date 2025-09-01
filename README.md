@@ -16,7 +16,7 @@ Este repositório contém evidências (prints) da aplicação da metodologia **S
 ![Backlog da Sprint](prints/backlog-sprint.png)
 -Esta print fornece a visão para o **Backlog da Sprint**, onde estão visíveis os estados em que se encontram as **tasks** planeadas para a respetiva **sprint**.
 
-![Kanban com Tasks](prints/Task-Adicionar-export-para-PDF-Excel.png.png)
+![Kanban com Tasks](prints/Task-Adicionar-export-para-PDF-Excel.png)
 -Exemplo de uma task completa, com histórico de alterações, responsáveis e evolução até à finalização. Mostra a rastreabilidade e acompanhamento do progresso
   
 ![User Story](prints/user-storie.png)
