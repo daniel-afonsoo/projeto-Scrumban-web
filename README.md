@@ -20,9 +20,11 @@ Este repositório contém evidências (prints) da aplicação da metodologia **S
 
 ![Kanban com Tasks](prints/Task-Adicionar-export-para-PDF-Excel.png)
 - Exemplo de uma task completa, com histórico de alterações, responsáveis e evolução até à finalização. Mostra a rastreabilidade e acompanhamento do progresso
-  
+*******************************
+
 ![User Story](prints/user-storie.png)
 - Exemplo de uma **user story** no **GitHub Projects**. Explica uma funcionalidade do ponto de vista do utilizador final e serve de base para a criação de tasks
+*******************************
 
 ![Task](prints/Task.png)
 - Exemplo de uma **task** no **GitHub Projects**, com histórico de atribuições, alterações de estado (Backlog → Em desenvolvimento → Em Teste → Finalizado) e responsáveis. Demonstra como o progresso foi acompanhado de forma colaborativa até à conclusão.
