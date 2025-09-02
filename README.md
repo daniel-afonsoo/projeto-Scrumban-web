@@ -6,7 +6,7 @@ Este repositório contém evidências (prints) da aplicação da metodologia **S
 ## O que foi feito
 - Definição de **user stories** e criação do backlog do produto.
 - Planeamento de **sprints** e organização do backlog da sprint.
-- Acompanhamento de **tasks** em boards Kanban no GitHub Projects (desenvolvimento, testes, finalização).
+- Acompanhamento de **tasks** numa **board Kanban** no **GitHub Projects** 
 - Colaboração em equipa para execução e revisão de sprints.
 
 ## Prints
