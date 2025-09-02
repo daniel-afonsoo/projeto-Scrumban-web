@@ -1,5 +1,5 @@
 
-# Projeto Scrum em Desenvolvimento Web
+# Projeto de Desenvolvimento Web com Scrum
 
 Este repositório contém evidências (prints) da aplicação da metodologia **Scrum** no projeto académico que se encontra presente neste repositório: [EasySchedule IPT](https://github.com/iptomar/2025-Team-D-Repository), desenvolvido em equipa recorrendo a tecnologias de desenvolvimento web (React, Node.js,etc).
 
