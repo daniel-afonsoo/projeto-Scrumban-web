@@ -23,8 +23,8 @@ Este repositório contém evidências (prints) da aplicação do framework **Scr
 *******************************
 
 ![User Story](prints/user-storie.png)
-- Exemplo de uma **user story** no **GitHub Projects**. Essa user story explica uma funcionalidade do ponto de vista do utilizador final e serve de base para a criação de tasks.
+- Exemplo de uma **user story**. Essa user story explica uma funcionalidade do ponto de vista do utilizador final e serve de base para a criação de tasks.
 *******************************
 
 ![Task](prints/Task.png)
-- Exemplo de uma **task** no **GitHub Projects**, onde é possível ver o histórico de atribuições, as alterações de estado (Backlog → Em desenvolvimento → Em Teste → Finalizado) e os responsáveis.
+- Exemplo de uma **task**, onde é possível ver o histórico de atribuições, as alterações de estado (Backlog → Em desenvolvimento → Em Teste → Finalizado) e os responsáveis.
