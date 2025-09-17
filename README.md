@@ -49,7 +49,7 @@ The academic project referenced in this repository can be found here: [EasySched
 ![Task](prints/Task.png)
 - Exemplo de uma **task**, onde é possível ver o histórico de atribuições, as alterações de estado (Backlog → Em desenvolvimento → Em Teste → Finalizado) e os responsáveis.
 
-
+*******************************
 ### 🇺🇸 ENGLISH
 ![Product Backlog](prints/backlog-produto.png)  
 This screenshot provides the **global view** of the project.
