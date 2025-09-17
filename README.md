@@ -11,7 +11,7 @@ Este repositório contém evidências (prints) da aplicação do framework **Scr
 - Colaboração em equipa para execução e revisão de sprints.
 
 
-######################################################################
+*******************************
 
 ## 🇺🇸 ENGLISH
 This repository contains evidence (screenshots) of the application of the **Scrum** framework, with task tracking within each sprint through a **Kanban board** on **GitHub Projects** — therefore, this is a case of **Scrumban**.  
@@ -23,7 +23,7 @@ The academic project referenced in this repository can be found here: [EasySched
 - Tracking of **tasks**.
 - Team collaboration for sprint execution and review.
 
-##########################################################
+*******************************
 
 
 
