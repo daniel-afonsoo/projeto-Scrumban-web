@@ -53,15 +53,19 @@ The academic project referenced in this repository can be found here: [EasySched
 ### 🇺🇸 ENGLISH
 ![Product Backlog](prints/backlog-produto.png)  
 This screenshot provides the **global view** of the project.
+*******************************
 
 ![Sprint Backlog](prints/backlog-sprint.png)  
 This screenshot shows the **Sprint Backlog**, where the statuses of the **tasks** planned for the respective **sprint** are displayed.
+*******************************
 
 ![Kanban with Tasks](prints/Task-Adicionar-export-para-PDF-Excel.png)  
 Example of a **task** associated with **Sprint 3**, where it is possible to see the change history, assignees, and the task's progress until completion.
+*******************************
 
 ![User Story](prints/user-storie.png)  
 Example of a **user story**. This user story explains a feature from the end-user's perspective and serves as the basis for task creation.
+*******************************
 
 ![Task](prints/Task.png)  
 Example of a **task**, where it is possible to see the assignment history, state changes (Backlog → In Development → In Testing → Done), and the responsible team members.
